@@ -1,0 +1,35 @@
+#main{
+    text-align: center;
+     
+}
+
+.pre-title{
+    background: #eee;
+}
+
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+.myDiv{
+    text-align: center;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+}
+.tribute-info{
+ background-color: #eee;  
+}
+
+.br{
+    margin-top:  4px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.img-caption{
+    font-style: italic;
+}
